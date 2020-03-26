@@ -11,16 +11,18 @@ First things need to do is:
    I suggest to you install as globaly packages because it is a tool not a dependency for project
 
 So now! you must install dependency packages: (please run below command in project folder)
-npm i
+
+``` npm i ```
 
 
 Welldone! app is ready to run now. run below command
-nodemon index.js
+
+``` nodemon index.js ```
 
 tadaaa!
 
-open browser: localhost:5000  (must see hello :))
-open browser: localhost:5000/api/courses (must see course array list)
+open browser: "localhost:5000"  (must see hello :))
+open browser: "localhost:5000/api/courses" (must see course array list)
 
 You can use Postman to Get,Post,Put,Delete Courses operators
 
