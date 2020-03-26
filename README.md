@@ -5,10 +5,17 @@ Hi!
 
 First things need to do is:
 
-1- Install npm globaly on your Os (windows - mac - ...)
+1- Install NodeJs => https://nodejs.org/
 
-2- Install nodemon for run-watching mode (install command is : "npm i -g nodemon")
-   I suggest to you install as globaly packages because it is a tool not a dependency for project
+2- Install npm globaly on your Os (windows - mac - ...)
+
+``` npm i -g npm@6.14.3 ``` update to latest version
+
+3- Install nodemon for run-watching mode 
+
+(install command is : ```npm i -g nodemon ```)
+
+I suggest to you install "nodemon" as globaly packages because it is a tool not a dependency for project
 
 So now! you must install dependency packages: (please run below command in project folder)
 
