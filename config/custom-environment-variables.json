@@ -1,0 +1,7 @@
+{
+    "name":"My First Node App - Development",
+    "mail":{
+        "host": "dev-mail-server",
+        "password":"MAIL_PASSWORD"
+    }
+}
